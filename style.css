@@ -1,0 +1,48 @@
+.navbar-brand{
+    color: gold;
+}
+
+.home .pt-5{
+    padding: 100px ;
+}
+.text-home h4{
+    color: gold;
+}
+.text-home h1 span{
+    color: tomato;
+}
+.home a{
+    border:1px solid black;
+    background-color: gold;
+    color: black;
+   padding: 10px 20px;
+    margin-left: 15%;
+    width: 200px;
+    font-size: 30px;
+    transition: 0.4s;
+    border-radius: 10px;
+}
+.home a:hover{
+    background-color: tomato;
+    color: white;
+}
+.my-skills{
+    margin-top: 100px;
+    /* height:200px; */
+}
+.my-progress{
+    width:50%;
+    margin-top: 60px;
+}
+.my-projects{
+    margin-top: 100px;
+}
+.my-card{
+    width: 100%;
+   margin-top: 100px;
+   padding: 0 20%;
+   gap: 20px;
+}
+.container h1{
+    color: gold;
+}
